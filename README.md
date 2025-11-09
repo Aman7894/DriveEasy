@@ -10,7 +10,7 @@
 ## ⚙️ Tech Stack
 
 **Frontend:**
-- HTML, CSS, JavaScript  
+- HTML, CSS, TypeScript  
 - React.js (for UI components and routing)  
 - Tailwind CSS / Bootstrap (for styling)
 
