@@ -63,7 +63,7 @@ Developer: Aman Pal
 
 Email: ap7164772@email.com
 
-LinkedIn:linkedin.com/in/aman-pal-8493951b4
+LinkedIn:https://linkedin.com/in/aman-pal-8493951b4
 
-GitHub: github.com/Aman7894
+GitHub:https://github.com/Aman7894
 │
